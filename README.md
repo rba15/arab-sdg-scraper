@@ -19,4 +19,4 @@ As of **February 2023**, Twitter discontinued or significantly restricted access
 
 ---
 
-![Project Preview](assets/Screenshot.png)
+![Project Preview](Screenshot.png)
